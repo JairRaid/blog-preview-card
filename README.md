@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JairRaid/blog-preview-card
-- Live Site URL: https://jairraid.github.io/QR-code-component/
+- Live Site URL: https://jairraid.github.io/blog-preview-card/
 
 ## My process
 
